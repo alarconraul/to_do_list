@@ -1,4 +1,3 @@
-# desafiovue.2
 
 ## Project setup
 ```
